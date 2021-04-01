@@ -1,0 +1,14 @@
+.xp_header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.xp_title{
+    font-weight: bold;
+}
+
+@media screen and (min-width: 1000px){
+    #experiences{
+        margin: 40px 140px;
+    }    
+}
